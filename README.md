@@ -193,3 +193,4 @@ php artisan migrate
 php artisan db:seed
 ```
 
+Link to presentation: https://drive.google.com/file/d/1h1ueP2LfQZSBEDReTRhUEOYzJEraQTfJ/view?usp=sharing
